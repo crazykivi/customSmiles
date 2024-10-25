@@ -1,2 +1,3 @@
 # customSmiles
-Custom smiles for NetSpekerphone 4
+## Кастомные смайлы для netSpeakephone 4.
+## Прописаны названия и количество (добавлены в 3 группу)
